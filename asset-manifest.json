@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/listing-product-from-json/static/css/main.4f58aad1.chunk.css",
+    "main.js": "/listing-product-from-json/static/js/main.d42ba612.chunk.js",
+    "main.js.map": "/listing-product-from-json/static/js/main.d42ba612.chunk.js.map",
+    "runtime-main.js": "/listing-product-from-json/static/js/runtime-main.b10c1ef6.js",
+    "runtime-main.js.map": "/listing-product-from-json/static/js/runtime-main.b10c1ef6.js.map",
+    "static/js/2.e2d01dc9.chunk.js": "/listing-product-from-json/static/js/2.e2d01dc9.chunk.js",
+    "static/js/2.e2d01dc9.chunk.js.map": "/listing-product-from-json/static/js/2.e2d01dc9.chunk.js.map",
+    "index.html": "/listing-product-from-json/index.html",
+    "precache-manifest.ef4e75ea2a0ebf59717373541164e3c4.js": "/listing-product-from-json/precache-manifest.ef4e75ea2a0ebf59717373541164e3c4.js",
+    "service-worker.js": "/listing-product-from-json/service-worker.js",
+    "static/css/main.4f58aad1.chunk.css.map": "/listing-product-from-json/static/css/main.4f58aad1.chunk.css.map",
+    "static/js/2.e2d01dc9.chunk.js.LICENSE.txt": "/listing-product-from-json/static/js/2.e2d01dc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b10c1ef6.js",
+    "static/js/2.e2d01dc9.chunk.js",
+    "static/css/main.4f58aad1.chunk.css",
+    "static/js/main.d42ba612.chunk.js"
+  ]
+}
