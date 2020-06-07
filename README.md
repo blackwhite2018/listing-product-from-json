@@ -1,6 +1,6 @@
 # React, listing of product from json, classnames module
 
-[View Demo](https://blackwhite2018.github.io/listing-product-from-json)
+[View Demo](https://blackwhite2018.github.io/listing-product-from-json/)
 
 ## Installation
 
